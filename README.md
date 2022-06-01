@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning C#, HTML and other things.
 
-  ...Well, I still need to handle the GIT functions better before going to the next step. Hope I get good on that soon! 😅
+  ...Well, I still need to handle better the GIT functions before going to the next step. Hope I get good on that soon! 😅
 
 ##
 
