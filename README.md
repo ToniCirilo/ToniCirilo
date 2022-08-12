@@ -1,6 +1,6 @@
 ### "Hello World" 😎
 
-- 🌱 I’m currently learning C#, HTML and other things.
+- 🌱 I’m currently learning JavaScript, HTML and other things.
 
   ...Well, I still need to handle better the GIT functions before going to the next step. Hope I get good on that soon! 😅
 
